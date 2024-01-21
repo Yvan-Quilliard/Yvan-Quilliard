@@ -1,16 +1,53 @@
-### Hi there 👋
+# PORTFOLIO BUT3 INFO RA-DWM
 
-<!--
-**Yvan-Quilliard/Yvan-Quilliard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>## 👋 Présentation
+>
+>#### Bonjour je m'appelle **Yvan** et je suis en **3ème** année de **BUT RA-DWM**.
 
-Here are some ideas to get you started:
+>## 📚 Formation
+>
+>- **BUT RA-DWM « Réalisation d'application - Développement Web et Mobile »**
+>- **BTS SIO « Solutions logicielles et applications métiers »**
+>- **Bac professionnel SYSTÈME NUMÉRIQUE « Réseaux informatiques et système communicants »**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>## 👨‍💻 Compétences
+>
+>### Langage de programmation 
+>
+>- **JavaScript**
+>- **PHP**
+>- **C#**
+>- **Java**
+>- **SQL**
+>- **HTML / CSS**
+>- **Sass / PostCSS**
+>
+> ### Base de données
+> - **MySQL**
+> - **SQLite**
+> - **MongoDB**
+>
+> ### Outils
+> - **JetBrains**
+> - **Git**
+> - **Postman**
+> - **Figma**
+> - **Docker**
+> 
+> ### Framework
+> - **JavaScript**
+>   - React Native
+>   - React.js
+> - **PHP**
+>   - Laravel
+>   - Slim
+> - **C#**
+>   - Windows Forms
+> - **Java**
+>   - Android
+>   - JavaFX
+>   - JUnit
+> - **CSS**
+>   - Bootstrap
+>   - Materialize
+>   - Tailwind CSS
