@@ -39,6 +39,7 @@ Bonjour, je m'appelle **Yvan** et je suis en **3ème** année de **BUT RA-DWM**.
 - **JavaScript**
     - React Native
     - React.js
+    - Vue.js
 - **PHP**
     - Laravel
     - Slim
@@ -52,3 +53,5 @@ Bonjour, je m'appelle **Yvan** et je suis en **3ème** année de **BUT RA-DWM**.
     - Bootstrap
     - Materialize
     - Tailwind CSS
+- **Dart**
+    - Flutter
